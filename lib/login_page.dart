@@ -29,7 +29,7 @@ class LoginPage extends StatelessWidget {
       children: [
         Text(
           "DB Status App",
-          style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 38, fontWeight: FontWeight.bold),
         ),
         Text("Enter your credential to login"),
       ],
@@ -73,7 +73,7 @@ class LoginPage extends StatelessWidget {
           ),
           child: const Text(
             "Login",
-            style: TextStyle(fontSize: 20),
+            style: TextStyle(color: Colors.black, fontSize: 20),
           ),
         )
       ],
@@ -96,7 +96,10 @@ class LoginPage extends StatelessWidget {
       children: [
         const Text("Dont have an account? "),
         TextButton(
-            onPressed: () {},
+            onPressed: () {
+              // Navigate to the login page when signup button is pressed
+              Navigator.pushNamed(context, '/signup');
+            },
             child: const Text(
               "Sign Up",
               style: TextStyle(color: Colors.purple),

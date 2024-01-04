@@ -1,4 +1,4 @@
-#Tue Jan 02 09:13:20 EST 2024
-base.0=/home/vicent/Documents/DB_Migration_App/database_migration_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Jan 04 01:49:16 EST 2024
+base.0=/home/vicent/Documents/App/DB_Migration_App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,0 +1,1 @@
+ /home/vicent/Documents/App/DB_Migration_App/.dart_tool/flutter_build/cc64e5528fbb41548f9a4b811e2cb70b/native_assets.yaml: 
