@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.database_migration_app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.database_migration_app-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/home/vicent/Documents/App/DB_Migration_App/android/app/src/main/res/values-night/styles.xml",
