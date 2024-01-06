@@ -3,8 +3,6 @@ import 'package:database_migration_app/login_page.dart';
 import 'package:database_migration_app/signup_page.dart';
 import 'package:database_migration_app/welcome_page.dart';
 import 'package:database_migration_app/home_page.dart';
-import 'package:database_migration_app/newDatabasePage.dart';
-import 'package:database_migration_app/oldDatabasePage.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
