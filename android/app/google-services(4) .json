@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "270596647937",
-    "project_id": "db-migration-app-11d6c",
-    "storage_bucket": "db-migration-app-11d6c.appspot.com"
+    "project_number": "705485753193",
+    "project_id": "database-ff902",
+    "storage_bucket": "database-ff902.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:270596647937:android:42acd199d7b3540243a400",
+        "mobilesdk_app_id": "1:705485753193:android:8cec243980655ce7b6cbf8",
         "android_client_info": {
           "package_name": "com.example.database_migration_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBs5Cb5MVZ2igo4Ym9rAeLKBQMVuAr_epQ"
+          "current_key": "AIzaSyAIOdFkW0c7gTuYJEJqm_mw9Bvobua4Ezs"
         }
       ],
       "services": {

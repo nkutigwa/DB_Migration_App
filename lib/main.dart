@@ -3,11 +3,11 @@ import 'package:database_migration_app/login_page.dart';
 import 'package:database_migration_app/signup_page.dart';
 import 'package:database_migration_app/welcome_page.dart';
 import 'package:database_migration_app/home_page.dart';
-import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_core/firebase_core.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+void main() {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // await Firebase.initializeApp();
   runApp(MyApp());
 }
 
